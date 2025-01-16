@@ -1,7 +1,0 @@
-echo "# Atividade_BioinfoIC_Resolvida" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/EmanuelSDts/Atividade_BioinfoIC_Resolvida.git
-git push -u origin main
