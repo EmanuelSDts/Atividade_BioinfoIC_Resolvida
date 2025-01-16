@@ -1,0 +1,38 @@
+# DNA_sequence 
+tttatagtagaagaggtccaagcgggaacagaactgctaacccagccccatcctgtccttacacaaagatgctgcggtcttgatccacctcgctcggccactcgttcaccccgtctaagtttgcgcggaactaaccaaaagatgacaacaaggcgggacgaaccctttacgctgtcactccataaaacatagttttaataccgggtctctcaaaaaagtatgctgggtgcatcgttccttggtttagtagctcctccgtttcgggctcggatgagcctcggaatcctaagggtaaatgcgaaagatcccacggataaggtcactttaacctgttacccaaccaagccgggcacgcgcggtctcccggatgacatctcgggagcctcacgaatcaaggccgcaatgcaagagaggctttacgccacggtagaggttacacgtttcccggggcaggatcccgtcagaggtttccttaacgaactcactccaggatacagttccatgcactaggggtctcggagtcaggcgcaaccggcgcaaagtaaacgagtggtcgaaagcggcgattgttgtcgatggagggttctttaacatacttacggccttagcagttcatacaccctctactcaagaggttgcagcgaacttagttcccagtaatgcacactagttgacctcatccctagagtgacaactcactatagaagtcgtcgttttgctaatcgatcccgtcgatccgatgcaaacttacccattcacgctcgcacatcggtttcacaacggatcgtcatactccagtgagacgcggatgggcgtcaagtggttg
+# 
+                        5'3' Frame 1
+                    
+
+                        F I V E E V Q A G T E L L T Q P H P V L T Q R C C G L D P P R S A T R S P R L S L R G T N Q K Met T T R R D E P F T L S L H K T Stop F Stop Y R V S Q K S Met L G A S F L G L V A P P F R A R Met S L G I L R V N A K D P T D K V T L T C Y P T K P G T R G L P D D I S G A S R I K A A Met Q E R L Y A T V E V T R F P G Q D P V R G F L N E L T P G Y S S Met H Stop G S R S Q A Q P A Q S K R V V E S G D C C R W R V L Stop H T Y G L S S S Y T L Y S R G C S E L S S Q Stop C T L V D L I P R V T T H Y R S R R F A N R S R R S D A N L P I H A R T S V S Q R I V I L Q Stop D A D G R Q V V 
+                    
+# 
+                        5'3' Frame 2
+                    
+
+                        L Stop Stop K R S K R E Q N C Stop P S P I L S L H K D A A V L I H L A R P L V H P V Stop V C A E L T K R Stop Q Q G G T N P L R C H S I K H S F N T G S L K K V C W V H R S L V Stop Stop L L R F G L G Stop A S E S Stop G Stop Met R K I P R I R S L Stop P V T Q P S R A R A V S R Met T S R E P H E S R P Q C K R G F T P R Stop R L H V S R G R I P S E V S L T N S L Q D T V P C T R G L G V R R N R R K V N E W S K A A I V V D G G F F N I L T A L A V H T P S T Q E V A A N L V P S N A H Stop L T S S L E Stop Q L T I E V V V L L I D P V D P Met Q T Y P F T L A H R F H N G S S Y S S E T R Met G V K W L 
+                    
+# 
+                        5'3' Frame 3
+                    
+
+                        Y S R R G P S G N R T A N P A P S C P Y T K Met L R S Stop S T S L G H S F T P S K F A R N Stop P K D D N K A G R T L Y A V T P Stop N I V L I P G L S K K Y A G C I V P W F S S S S V S G S D E P R N P K G K C E R S H G Stop G H F N L L P N Q A G H A R S P G Stop H L G S L T N Q G R N A R E A L R H G R G Y T F P G A G S R Q R F P Stop R T H S R I Q F H A L G V S E S G A T G A K Stop T S G R K R R L L S Met E G S L T Y L R P Stop Q F I H P L L K R L Q R T Stop F P V Met H T S Stop P H P Stop S D N S L Stop K S S F C Stop S I P S I R C K L T H S R S H I G F T T D R H T P V R R G W A S S G 
+                    
+# 
+                        3'5' Frame 1
+                    
+
+                        Q P L D A H P R L T G V Stop R S V V K P Met C E R E W V S L H R I D G I D Stop Q N D D F Y S E L S L Stop G Stop G Q L V C I T G N Stop V R C N L L S R G C Met N C Stop G R K Y V K E P S I D N N R R F R P L V Y F A P V A P D S E T P S A W N C I L E Stop V R Stop G N L Stop R D P A P G N V Stop P L P W R K A S L A L R P Stop F V R L P R C H P G D R A C P A W L G N R L K Stop P Y P W D L S H L P L G F R G S S E P E T E E L L N Q G T Met H P A Y F F E R P G I K T Met F Y G V T A Stop R V R P A L L S S F G Stop F R A N L D G V N E W P S E V D Q D R S I F V Stop G Q D G A G L A V L F P L G P L L L Stop 
+                    
+# 
+                        3'5' Frame 2
+                    
+
+                        N H L T P I R V S L E Y D D P L Stop N R C A S V N G Stop V C I G S T G S I S K T T T S I V S C H S R D E V N Stop C A L L G T K F A A T S Stop V E G V Stop T A K A V S Met L K N P P S T T I A A F D H S F T L R R L R L T P R P L V H G T V S W S E F V K E T S D G I L P R E T C N L Y R G V K P L L H C G L D S Stop G S R D V I R E T A R A R L G W V T G Stop S D L I R G I F R I Y P Stop D S E A H P S P K R R S Y Stop T K E R C T Q H T F L R D P V L K L C F Met E Stop Q R K G F V P P C C H L L V S S A Q T Stop T G Stop T S G R A R W I K T A A S L C K D R Met G L G Stop Q F C S R L D L F Y Y K 
+                    
+# 
+                        3'5' Frame 3
+                    
+
+                        T T Stop R P S A S H W S Met T I R C E T D V R A Stop Met G K F A S D R R D R L A K R R L L Stop Stop V V T L G Met R S T S V H Y W E L S S L Q P L E Stop R V Y E L L R P Stop V C Stop R T L H R Q Q S P L S T T R L L C A G C A Stop L R D P Stop C Met E L Y P G V S S L R K P L T G S C P G K R V T S T V A Stop S L S C I A A L I R E A P E Met S S G R P R V P G L V G Stop Q V K V T L S V G S F A F T L R I P R L I R A R N G G A T K P R N D A P S I L F Stop E T R Y Stop N Y V L W S D S V K G S S R L V V I F W L V P R K L R R G E R V A E R G G S R P Q H L C V R T G W G W V S S S V P A W T S S T I 
+                    
