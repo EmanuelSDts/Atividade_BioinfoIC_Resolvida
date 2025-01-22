@@ -1,0 +1,13 @@
+**Construção de visualizações gráficas**
+
+Foi anexada a planilha contendo os dados "limpos" e suas devidas representações gráficas, conforme solicitado na atividade.
+
+Todo o processo de limpeza e extração de dados foi realizada utilizando o software "LibreOffice Calc".
+
+A priori, foram mantidas apenas as colunas com dados relevantes para o objetivo, como as contendo datas, localidades e contagem de modificações genéticas. Em seguida, procedeu-se a limpeza das linhas, removendo os sequenciamentos com o parâmetro "overallStatus" classificado como "bad" ou "mediocre". A limpeza ocorreu pela configuração de filtros.
+
+A seguir, uma segunda limpeza removeu sequenciamentos que não exibiam dados de localidade ou de data, necessários para realização da visualização gráfica.
+
+Foram utilizadas tabelas dinâmicas para permitir a unificação e a contagem de dados duplicados, por exemplo, mais de um sequenciamento por dia. Estes foram contados em sua totalidade, por dia.
+
+Com base nas tabelas dinâmicas, os gráficos solicitados foram construídos.
