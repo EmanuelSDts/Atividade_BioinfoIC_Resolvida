@@ -8,6 +8,11 @@ A priori, foram mantidas apenas as colunas com dados relevantes para o objetivo,
 
 A seguir, uma segunda limpeza removeu sequenciamentos que não exibiam dados de localidade ou de data, necessários para realização da visualização gráfica.
 
+Foram utilizadas fórmulas, como _concatenar_, _esquerda/direita_ e _procx_ para extrair os dados exigidos (data e localidade) dos dados de nome do sequenciamento.
+Ex: =CONCAT(DIREITA(ESQUERDA(B12;17);2)). Resolvendo essa fórmula do menos parênteses para o maior, inicialmente será abrangido os caracteres mais à esquerda, com uma limitação - no caso, os 17 primeiros caracteres.
+Em seguida, a fórmula _direita_ determinada quantidade de caracteres - no caso, 2 - mais a direita.
+Com esses dois dados, a fórmula _concatenar_ uniu os dois dados obtidos em uma célula de texto.
+
 Foram utilizadas tabelas dinâmicas para permitir a unificação e a contagem de dados duplicados, por exemplo, mais de um sequenciamento por dia. Estes foram contados em sua totalidade, por dia.
 
 Com base nas tabelas dinâmicas, os gráficos solicitados foram construídos.
