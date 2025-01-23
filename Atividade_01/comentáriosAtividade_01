@@ -1,0 +1,10 @@
+**Explicações**
+
+# A quantidade de cada tipo de nucleotídeo da string de DNA fornecida foi obtida usando a ferramenta "Localizar e Substituir", do software "LibreOffice Writer"
+A ferramente retorna a quantidade de vezes que determinada palavra ou caractere aparece no texto, sendo possível realizar essa contagem de forma eficiente.
+
+# A conversão da string de DNA em mRNA foi realizada pelo software "Transcription and Translation Tool", disponível em: https://biomodel.uah.es/en/lab/cybertory/analysis/trans.htm
+Alternativamente, a conversão poderia ser realizada com a ferramente "Localizar e Substituir", acima mencionada. Assim, seria possível substituir as bases do DNA pela sua correspondente de mRNA.
+
+# A tradução da cadeia de mRNA foi realizada pela ferramenta "Translate Tool", disponível em: https://web.expasy.org/translate/
+Para a conversão, foi utilizada a base de códigos genéticos padrão, segundo a direção da fita de DNA e a oposta, da fita de mRNA. Os códons de parada foram identificados como "Stop".
